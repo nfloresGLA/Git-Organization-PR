@@ -17,4 +17,5 @@
 > Nahuel Flores
 > Florencia Santamaría
 > Mariana Lopez
+> Nahuel Dorin
 ```
