@@ -18,4 +18,5 @@
 > Florencia Santamaría
 > Mariana Lopez
 > Nahuel Dorin
+> Pablo Medina
 ```
